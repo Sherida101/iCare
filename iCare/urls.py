@@ -1,9 +1,8 @@
 """
 
-Developed By : sumit kumar
-facebook : fb.com/sumit.luv
-Youtube :youtube.com/lazycoders
-
+Developed By : Sherida Providence
+GitHub: https://github.com/Sherida101
+YouTube : https://www.youtube.com/channel/UCobAZ9eizOU77HaEoLn0jHA
 
 """
 
@@ -109,6 +108,7 @@ urlpatterns +=[
 
 ]
 
-#Developed By : sumit kumar
-#facebook : fb.com/sumit.luv
-#Youtube :youtube.com/lazycoders
+#Developed By : Sherida Providence
+#GitHub: https://github.com/Sherida101
+#YouTube : https://www.youtube.com/channel/UCobAZ9eizOU77HaEoLn0jHA
+
