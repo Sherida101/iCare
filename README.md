@@ -1,6 +1,6 @@
 # iCare, a hospital website management service
 
-## ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sherida%20Providence-blue)
+## ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sherida%20Providence-blue) | [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asptechinc)
 
 ## Screenshots
 
