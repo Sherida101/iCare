@@ -2,3 +2,5 @@ xhtml2pdf
 Django==3.0.5
 django-widget-tweaks==1.4.8
 sqlparse==0.3.1
+pillow>=9.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+reportlab>=3.6.13 # not directly required, pinned by Snyk to avoid a vulnerability
